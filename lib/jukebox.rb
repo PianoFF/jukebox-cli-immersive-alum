@@ -52,7 +52,6 @@ def exit_jukebox
 end
 
 def run(arg)
-  # help
   user = nil
   unless user == "exit"
     puts "Please enter a command:"
